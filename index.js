@@ -1,5 +1,5 @@
 var name = "Susan"
-var height = "70"
+var height = 70
 
 /*if (name === "Susan")
 {
@@ -13,4 +13,3 @@ else{
 // Don't worry about this
 module.exports = { name, height
 }
-
